@@ -21,7 +21,5 @@ print ('Hello 'NF')
 ![Workflow Diagram](Picture1.png)
 
 
-Editing my personal branch as an example to show pull requests and merge
 
-Editing again to work with local git
 
