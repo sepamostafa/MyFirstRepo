@@ -9,7 +9,7 @@ This is a text
 * This is bullet point 3
 
 
-* This is bullet point 1
+* This is bullet point 4
 * This is bullet point 2
 * This is bullet point 3
 
