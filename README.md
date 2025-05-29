@@ -5,10 +5,7 @@ This is a test to learn how to create a repo on github
 This is a text
 
 
-* This is bullet point 4
-* This is bullet point 5
-* This is bullet point 2
-* This is bullet point 3
+
 
 ``` three backticks mean that I will start a block of code
 print ('Hello 'World')
