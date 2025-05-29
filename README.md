@@ -9,9 +9,13 @@ This is a text
 * This is bullet point 3
 * This is bullet point 1
 
-
-
-
+* bullet point 1
+* bullet point 2
+* bullet point 3
+* bullet point 4
+* bullet point 5
+* bullet point 6
+* bullet point 7
 
 ``` three backticks mean that I will start a block of code
 print ('Hello 'World')
